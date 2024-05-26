@@ -7,5 +7,5 @@
 - Use [test cards](https://razorpay.com/docs/payments/payments/test-card-details/) to test Indian, international and EMI payments, and Subscriptions.
 
 ## Payment flow 
-![](https://github.com/jibin94/razorpay_payments/blob/main/payment_flow.webp)
+![](https://github.com/jibin94/razorpay_payments/blob/main/payment_flow.png)
 
